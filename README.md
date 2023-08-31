@@ -11,3 +11,4 @@ https://github.com/pjreddie/darknet/blob/master/data/coco.names<br>
 
 
 [Ref1](https://stackoverflow.com/questions/28717054/calculating-sharpness-of-an-image)
+[Ref2](https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/)
