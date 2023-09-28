@@ -1,0 +1,6 @@
+classes = 4
+train  = ~/Downloads/har_detection-master/train/train.txt
+valid  = ~/Downloads/har_detection-master/test/test.txt
+names = ~/Downloads/har_detection-master/cust_classes.names
+backup = ~/Downloads/har_detection-master/weights/
+
