@@ -10,7 +10,7 @@ yolov3-tiny download links:
 [darknet](https://github.com/pjreddie/darknet)<br>
 https://github.com/smarthomefans/darknet-test/blob/master/yolov3-tiny.weights<br>
 https://github.com/pjreddie/darknet/blob/master/data/coco.names<br>
-
+Instructions for custom training: https://github.com/spmallick/learnopencv/tree/master/YOLOv3-Training-Snowman-Detector<br>
 
 [Ref1](https://stackoverflow.com/questions/28717054/calculating-sharpness-of-an-image)<br>
 [Ref2](https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/)
