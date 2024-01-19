@@ -4,7 +4,7 @@
 Current version:
 Uses yolov3-tiny for "person" identification<br>
 Custom training done on yolov3 to identify 4 classes including "delivery person" and "package"<br>
-Data annotation done in Roboflow by [@Subhiksha](https://github.com/Subhiksha-Sakthivel) and [@Debika](https://www.linkedin.com/in/debikapiriya-dharmalingam/)
+Data annotation done in Roboflow by [@Subhiksha](https://github.com/Subhiksha-Sakthivel) and [@Debika](https://github.com/deeepp)
 
 yolov3-tiny download links:
 [darknet](https://github.com/pjreddie/darknet)<br>
